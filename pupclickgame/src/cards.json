@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "name": "Bealge",
+      "image": "https://images.pexels.com/photos/460823/pexels-photo-460823.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+    },
+    {
+      "id": 2,
+      "name": "Corgi",
+      "image": "https://images.pexels.com/photos/58997/pexels-photo-58997.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+     
+    },
+    {
+      "id": 3,
+      "name": "Pug",
+      "image": "https://images.pexels.com/photos/374906/pexels-photo-374906.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    },
+    {
+      "id": 4,
+      "name": "Husky",
+      "image": "https://images.pexels.com/photos/434090/pexels-photo-434090.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    },
+    {
+      "id": 5,
+      "name": "Golden Retriever",
+      "image": "https://images.pexels.com/photos/9080/night-garden-yellow-animal.jpg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+
+    
+    },
+    {
+      "id": 6,
+      "name": "German Shepard",
+      "image": "https://images.pexels.com/photos/351406/pexels-photo-351406.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    },
+    {
+      "id": 7,
+      "name": "Dalmation",
+      "image": "https://images.pexels.com/photos/36436/dalmatians-dog-animal-head.jpg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    },
+    {
+      "id": 8,
+      "name": "Pit Bull",
+      "image": "https://images.pexels.com/photos/825947/pexels-photo-825947.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+    
+    },
+    {
+      "id": 9,
+      "name": "French Bulldog",
+      "image": "https://images.pexels.com/photos/776078/pexels-photo-776078.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    },
+    {
+      "id": 10,
+      "name": "Doberman",
+      "image": "https://images.pexels.com/photos/89781/doberman-dog-animal-world-animal-89781.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    },
+    {
+      "id": 11,
+      "name": "Rottweiler",
+      "image": "https://images.pexels.com/photos/68798/pexels-photo-68798.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+     
+    },
+    {
+      "id": 12,
+      "name": "Poodle",
+      "image": "https://images.pexels.com/photos/264206/pexels-photo-264206.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked" : false
+      
+    }
+  ]
+  
